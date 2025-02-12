@@ -11,35 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Deep Learning, IMT Atlantique, 2021-2024
+* M.S. in Computer Vision, Université de Caen, 2021
+* B.S. in Computer Science & Applied Mathematics, FSSM, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Apr 2024 - June 2024: Visiting Researcher
+  * Queen Mary University of London, London
+  * Duties includes:
+    *Continuation of the work started during my internship at INRIA with Romain Serizel, focusing on the development of a new representation learning loss with application to bird sound species classification/detection.
+  * Supervisor: Emmanouil Benetos
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan 2024 - Mar 2024: Visiting Researcher
+  * INRIA, Nancy
+  * Duties includes:
+    *Collaboration with Vincent Lostanlen (CNRS Nantes) and Jeremy Froidevaux (CREA Mont-Blanc) to address the problem of imbalanced multi-label classification with application to anuran sound species classification.
+    *Priliminary work on the development of a new representation learning loss with application to bird sound species classification.
+  * Supervisor: Romain Serizel
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Mar 2021 - Aug 2021: Machine Learning Intern
+  * Centre François Baclesse, Caen
+  * Duties includes:
+    *Development of a Deep Learning model for the super-resolution and the denoising of MRI scans.
+    *Study of the impact of a Deep learning model on radiomics.
+  * Supervisors: Aurélien Corroyer-Dulmont, Cyril Jaudet, Alexis Lechervy
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning / Deep Learning
+  * Pytorch, Keras, Numpy
+* Data Science
+  * Pandas, Sklearn
+* Languages
+  * English (CLES B2)
+  * French (TCF B2)
+  * Arabic (Native)
 
 Publications
 ======
@@ -47,7 +54,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -61,4 +68,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
