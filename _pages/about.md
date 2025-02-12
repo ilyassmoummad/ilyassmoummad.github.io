@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Ilyass Moummad, I hold a PhD in Deep Learning for Bioacoustics. My doctoral work centered on species recognition through sounds under conditions such as limited data availability, few annotations, new species, and domain shifts. I completed my PhD at [IMT Atlantique](www.imt-atlantique.fr/) within the [BRAIn Team] (https://www.imt-atlantique.fr/en/research-innovation/teams/brain). My research interests include representation learning, multi-modal learning, few-shot learning, computer vision, and machine listening. I am particularly keen on leveraging recent advancements in Deep Learning to address ecological challenges. I will soon begin a post-doctoral position at INRIA, where my research will focus on the recognition of plant species and diseases.
+I am Ilyass Moummad, I hold a PhD in Deep Learning for Bioacoustics. My doctoral work centered on species recognition through sounds under conditions such as limited data availability, few annotations, new species, and domain shifts. I completed my PhD at [IMT Atlantique](www.imt-atlantique.fr/) within the [BRAIn Team](https://www.imt-atlantique.fr/en/research-innovation/teams/brain). My research interests include representation learning, multi-modal learning, few-shot learning, computer vision, and machine listening. I am particularly keen on leveraging recent advancements in Deep Learning to address ecological challenges. I will soon begin a post-doctoral position at INRIA, where my research will focus on the recognition of plant species and diseases.
 
 **Publications**
 
