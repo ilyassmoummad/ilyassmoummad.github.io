@@ -43,6 +43,10 @@ Skills
   * Pytorch, Keras, Numpy
 * Data Science
   * Pandas, Sklearn
+* Image Processing
+  * OpenCV, Pillow
+* Signal Processing
+  * Scipy, Librosa (audio)
 * Languages
   * English (CLES B2)
   * French (TCF B2)
