@@ -3,7 +3,7 @@ title: "Acoustic identification of individual animals based on hierarchical cont
 collection: publications
 category: manuscripts
 permalink: https://arxiv.org/pdf/2409.08673
-date: 2025-04
+date: 2025-04-01
 venue: 'ICASSP'
 # paperurl: 'https://www.mdpi.com/2072-6694/14/1/36'
 ---

@@ -3,7 +3,7 @@ title: "Regularized Contrastive Pre-training for Few-shot Bioacoustic Sound Dete
 collection: publications
 category: manuscripts
 permalink: https://arxiv.org/pdf/2309.08971
-date: 2024-04
+date: 2024-04-01
 venue: 'ICASSP'
 # paperurl: 'https://www.mdpi.com/2072-6694/14/1/36'
 ---

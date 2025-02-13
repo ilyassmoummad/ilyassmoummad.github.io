@@ -3,7 +3,7 @@ title: "Mixture of Mixups for Multi-label Classification of Rare Anuran Sounds"
 collection: publications
 category: manuscripts
 permalink: https://arxiv.org/pdf/2403.09598
-date: 2024-08
+date: 2024-08-01
 venue: 'EUSIPCO'
 # paperurl: 'https://www.mdpi.com/2072-6694/14/1/36'
 ---

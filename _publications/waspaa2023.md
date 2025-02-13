@@ -3,7 +3,7 @@ title: "Pretraining Respiratory Sound Representations using Metadata and Contras
 collection: publications
 category: manuscripts
 permalink: https://arxiv.org/pdf/2210.16192
-date: 2023-10
+date: 2023-10-01
 venue: 'WASPAA'
 # paperurl: 'https://www.mdpi.com/2072-6694/14/1/36'
 ---

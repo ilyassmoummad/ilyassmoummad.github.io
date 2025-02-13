@@ -3,7 +3,7 @@ title: "Pretraining Representations for Bioacoustic Few-Shot Detection Using Sup
 collection: publications
 category: manuscripts
 permalink: https://arxiv.org/pdf/2309.00878
-date: 2023-09
+date: 2023-09-01
 venue: 'DCASE'
 # paperurl: 'https://www.mdpi.com/2072-6694/14/1/36'
 ---

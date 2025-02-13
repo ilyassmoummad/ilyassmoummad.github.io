@@ -3,7 +3,7 @@ title: "Domain-Invariant Representation Learning of Bird Sounds"
 collection: publications
 category: manuscripts
 permalink: https://arxiv.org/pdf/2409.08589
-date: 2024-10
+date: 2024-10-01
 venue: 'arXiv'
 # paperurl: 'https://www.mdpi.com/2072-6694/14/1/36'
 ---

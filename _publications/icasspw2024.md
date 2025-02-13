@@ -3,7 +3,7 @@ title: "Self-Supervised Learning for Few-Shot Bird Sound Classification"
 collection: publications
 category: manuscripts
 permalink: https://arxiv.org/pdf/2312.15824
-date: 2024-04
+date: 2024-04-01
 venue: 'ICASSPW'
 # paperurl: 'https://www.mdpi.com/2072-6694/14/1/36'
 ---
