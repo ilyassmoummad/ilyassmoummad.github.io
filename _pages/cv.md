@@ -47,10 +47,10 @@ Skills
   * OpenCV, Pillow
 * Signal Processing
   * Scipy, Librosa (audio)
-* Languages
+<!-- * Languages
   * English (CLES B2)
   * French (TCF B2)
-  * Arabic (Native)
+  * Arabic (Native) -->
 
 <!-- Publications
 ======
